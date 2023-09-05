@@ -4,7 +4,7 @@ side3 = int(input("Enter length of third side of the triangle:"))
 
 def triangle():
     perimeter = side1 + side2 + side3
-    print(perimeter)
+    print("სამკუთხედის პერიმეტრი უდრის:", perimeter)
 
 
 triangle()
