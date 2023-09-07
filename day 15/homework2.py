@@ -12,7 +12,7 @@ for i in range(1, 4):
 
 crew_members_name = ['ლაზარე', 'ლუკა', 'ლექსო', 'თორნიკე', 'ნინო', 'ლუკა', 'ნიკო', 'ნიკოლას',]
 
-if crew_members_name[1] == "ი":
+if crew_members_name[-1] == "ი":
     print("cool")
 else:
     print('No ones name ended with "ი", but they are cool anyways')
